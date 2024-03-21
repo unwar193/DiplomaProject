@@ -13,7 +13,7 @@
                   class="fw-bold mb-2 text-uppercase"
                   style="margin-left:18%; padding-bottom: 22px"
                 >
-                Добро пожаловать
+                Добро пожаловать!
                 </h2>
                 <!-- <p class="mb-5">Please enter your login and password!</p> -->
                 <div class="alert alert-danger" v-if="messageError">
@@ -46,7 +46,7 @@
                 </p> -->
                 <div class="d-grid">
                   <button class="btn btn-outline-dark" type="submit">
-                    Логин
+                    Войти
                   </button>
                 </div>
               </form>

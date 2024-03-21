@@ -26,7 +26,7 @@
                 <a href="Features" class="nav-link p-0 text-muted">Услуги</a>
               </li>
               <li class="nav-item mb-2">
-                <a href="Pricing" class="nav-link p-0 text-muted">Ценообразование</a>
+                <a href="Blog" class="nav-link p-0 text-muted">Блог</a>
               </li>
               <li class="nav-item mb-2">
                 <a href="FAQs" class="nav-link p-0 text-muted">FAQs</a>

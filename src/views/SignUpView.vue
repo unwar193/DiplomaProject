@@ -28,7 +28,7 @@
                 <div class="mb-3">
                   <label for="adress" class="form-label">Адрес доставки</label>
                   <input type="address" class="form-control" aria-describedby="emailHelp"
-                    placeholder="например: Беларусь, Минск, 765" v-model="user.address" />
+                    placeholder="например: Россия, Санкт-Петербург, 194044" v-model="user.address" />
                 </div>
                 <div class="form-outline">
                   <label class="form-label" for="typePhone">Номер телефона</label>
@@ -39,7 +39,7 @@
                 <div class="d-grid">
                   <br />
                   <button class="btn btn-outline-dark" type="submit">
-                    Логин
+                    Зарегистрироваться
                   </button>
                 </div>
               </form>

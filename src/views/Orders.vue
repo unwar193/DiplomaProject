@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <br />
-    <h1 style="text-align: center">Orders</h1>
+    <h1 style="text-align: center">Мои заказы</h1>
     <br />
     <table class="table table-bordered" v-if="orders.length > 0">
       <thead style="background: #39b5ff; color: white">
