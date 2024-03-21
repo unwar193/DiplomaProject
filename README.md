@@ -1,9 +1,7 @@
 # Ecommerce website with vue js and firebase
-<div align="center"> 
-<img src="https://github.com/ranizouaoui/E-commerce/blob/main/src/assets/thumbnail.jpg" alt="" />
- </div>  
- 
+
 ## Preface
+
 This is my first web project which is an online store. I created the site with vuejs and firebase. In addition, the project is a practical application to the training I followed on the "<a href="https://vueschool.io/">Vue school</a>" site.
 
 <h4> Why I chose vuejs framework? </h4>
@@ -21,38 +19,46 @@ Perform the following steps:
 3- Install vetur extension for VS Code.<br/>
 4- Clone this repository.<br/>
 5- Download and install npm packages.<br/>
+
 ```
 npm install
 ```
+
 6- configurer Firebase.js.<br/>
 
- 
 ```
 //  just connect to Firebase then create a project and copy the configuration function
 const firebaseConfig = {
 ...
 };
 ```
+
 <a href="https://firebase.google.com/docs/projects/learn-more">Setting up a Firebase project and registering apps</a>
+
 ### Starting Server
+
 ```
 npm run serve
 ```
 
 ### Creating a Production Build
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Project Map
+
 ```
 - myprojectvuejs
   + public          … Contains resouces of this project.
@@ -68,12 +74,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   - babel.config    … Babel Configuration.
   - package.json    … Define npm packages.
   - vue.config.js   … Vue CLI Configuration.
-  
-  ```
 
-  ## Views
-  There are the following views in this project.
-  
+```
+
+## Views
+
+There are the following views in this project.
+
   <table>
 <thead>
 <tr>
@@ -120,6 +127,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Libraries
 
 This sample uses the following library.
+
 <table>
 <thead>
 <tr>
@@ -161,9 +169,3 @@ This sample uses the following library.
 </tr>
 </tbody>
 </table>
-
-# YouTube video for the website
-
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/yjawzRhKpOs/0.jpg)](https://www.youtube.com/watch?v=yjawzRhKpOs "Vue.Js Website")
-
